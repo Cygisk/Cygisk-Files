@@ -2,11 +2,11 @@
   "magisk": {
     "version": "dafcb4af",
     "versionCode": "24102",
-    "link": "https://github.com/Cygisk/Cygisk-Files/raw/master/channel/app-debug.apk",
+    "link": "https://cdn.jsdelivr.net/gh/Cygisk/Cygisk-Files@master/channel/app-debug.apk",
     "note": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@8077d881a8a41754f386c18a8fb330f139b65c26/notes.md"
   },
   "stub": {
     "versionCode": "25",
-    "link": "https://github.com/Cygisk/Cygisk-Files/raw/master/channel/stub-release.apk"
+    "link": "https://cdn.jsdelivr.net/gh/Cygisk/Cygisk-Files@master/channel/stub-release.apk"
   }
 }
